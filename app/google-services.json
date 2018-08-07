@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "589423664185",
+    "firebase_url": "https://sharekaro-sidp919.firebaseio.com",
+    "project_id": "sharekaro-sidp919",
+    "storage_bucket": "sharekaro-sidp919.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589423664185:android:a84b80bd4e1ca156",
+        "android_client_info": {
+          "package_name": "com.example.android.sharekaro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589423664185-vf7bogtbge1s20simcckt6qjoc7ib6bt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.sharekaro",
+            "certificate_hash": "000fd187a2f7a340036cc1ea86ff77d2cf5067d3"
+          }
+        },
+        {
+          "client_id": "589423664185-e86ligrt1scfovv23jh1h0tmcmhtcuh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5PSXLuH0nC5mrSQcSR2eSR8LN-u3IrZU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589423664185-e86ligrt1scfovv23jh1h0tmcmhtcuh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
